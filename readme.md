@@ -1,6 +1,9 @@
-#Proyecto Safe Travel#
+#Proyecto Safe Travel
 
 ![porque](https://user-images.githubusercontent.com/32277143/38053505-a4dd5048-32aa-11e8-9629-4ea7f1daf6ce.png)
+
+##Desarrollado para
+<a href="http://www.laboratoria.la/">Laboratoria</a>
 
 
 *Se nos planteo el desafío de mejorar la experiencia ya existente de los viajes en buses, donde teníamos que identificar principales problemáticas del servicio y optimizarlos.*
